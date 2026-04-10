@@ -18,6 +18,17 @@ Real-time MNQ1! futures dashboard built with Flask and TradingView Lightweight C
 
 ---
 
+### [GDR Automation](https://github.com/wayne1277/GDR-automation)
+Windows hardware validation toolkit for QA testing PCs and laptops.
+
+- Auto-tests Audio, Battery, Display, Video, and Ethernet components
+- Distinguishes auto-testable (PASS/FAIL) from manual verification items
+- Generates timestamped HTML report after each run
+
+**Tech:** PowerShell · WMI · Windows Batch
+
+---
+
 ### Bybit SMC Bot *(in progress)*
 Semi-automated trading bot controlled via Telegram.
 
