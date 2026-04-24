@@ -6,15 +6,26 @@ Prop firm trader using Smart Money Concepts (SMC) strategy, building Python tool
 
 ## Projects
 
-### [NQ Analyzer](https://github.com/wayne1277/nq_analyzer)
-Real-time MNQ1! futures dashboard built with Flask and TradingView Lightweight Charts.
+### [Crypto Analyzer](https://github.com/wayne1277/crypto_analyzer)
+Real-time multi-symbol crypto dashboard (ETH/BTC) built with Flask and Plotly.js.
 
 - Detects Order Blocks, Fair Value Gaps, BOS, Fake BOS, IDM, BSL/SSL
 - Signal tracker: monitors entry zones and resolves Win / Loss automatically
-- AI analysis powered by Gemini API
-- Two-column sidebar with draggable dividers
+- Live market data via Binance API; market sentiment gauge and win rate visualization
+- Persistent signal storage across sessions
 
-**Tech:** Python · Flask · Pandas · yFinance · JavaScript
+**Tech:** Python · Flask · Pandas · Binance API · Plotly.js · JavaScript
+
+---
+
+### [GlobalPulse](https://github.com/wayne1277/globalpulse)
+Full-stack investment intelligence terminal built with Flask and React.
+
+- Interactive geo-risk map with country-level political and economic indicators
+- Portfolio optimizer with real-time asset allocation and risk scoring
+- News sentiment analysis dashboard aggregating global financial headlines
+
+**Tech:** Python · Flask · React · REST API · JavaScript
 
 ---
 
@@ -42,4 +53,4 @@ Semi-automated trading bot controlled via Telegram.
 
 ## Skills
 
-`Python` `Flask` `Pandas` `yFinance` `Bybit API` `SMC / ICT` `TradingView`
+`Python` `Flask` `React` `Pandas` `Binance API` `Bybit API` `Plotly.js` `REST API` `SMC / ICT`
