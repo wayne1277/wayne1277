@@ -15,6 +15,7 @@ Real-time multi-symbol crypto dashboard (ETH/BTC) built with Flask and Plotly.js
 - Persistent signal storage across sessions
 
 **Tech:** Python · Flask · Pandas · Binance API · Plotly.js · JavaScript
+<img width="1913" height="908" alt="image" src="https://github.com/user-attachments/assets/2154be3b-30ed-4e7a-98c3-761b69fb4417" />
 
 ---
 
