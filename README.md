@@ -19,17 +19,6 @@ Real-time multi-symbol crypto dashboard (ETH/BTC) built with Flask and Plotly.js
 
 ---
 
-### [GlobalPulse](https://github.com/wayne1277/globalpulse)
-Full-stack investment intelligence terminal built with Flask and React.
-
-- Interactive geo-risk map with country-level political and economic indicators
-- Portfolio optimizer with real-time asset allocation and risk scoring
-- News sentiment analysis dashboard aggregating global financial headlines
-
-**Tech:** Python · Flask · React · REST API · JavaScript
-
----
-
 ### [GDR Automation](https://github.com/wayne1277/GDR-automation)
 Windows hardware validation toolkit for QA testing PCs and laptops.
 
