@@ -30,14 +30,14 @@ Windows hardware validation toolkit for QA testing PCs and laptops.
 
 ---
 
-### Bybit SMC Bot *(in progress)*
-Semi-automated trading bot controlled via Telegram.
+### [Bybit SMC Bot](https://github.com/wayne1277/Bybit-smc-bot)
+Automated trading bot for Bybit Futures with multi-strategy support and Telegram controls.
 
-- Scans 30min / 1H FVGs for entry points
-- Auto-calculates position size (1% risk rule)
-- Places limit orders with SL/TP on Bybit
+- SMC strategy: detects Fair Value Gaps and Order Blocks → auto places limit orders with SL/TP
+- VWAP Stdev Bands and UT Bot + Hull MA + STC as additional strategy modules
+- Runtime strategy switching, daily loss guard, and live Flask monitoring dashboard
 
-**Tech:** Python · pybit · python-telegram-bot · asyncio
+**Tech:** Python · pybit · python-telegram-bot · Flask · SQLite · Pandas
 
 ---
 
