@@ -39,6 +39,8 @@ Automated trading bot for Bybit Futures with multi-strategy support and Telegram
 
 **Tech:** Python · pybit · python-telegram-bot · Flask · SQLite · Pandas
 
+![Bybit SMC Bot Dashboard](https://raw.githubusercontent.com/wayne1277/Bybit-smc-bot/master/dashboard.png)
+
 ---
 
 ## Skills
